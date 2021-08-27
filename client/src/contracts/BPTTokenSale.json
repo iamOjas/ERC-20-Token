@@ -3581,12 +3581,12 @@
     "1337": {
       "events": {},
       "links": {},
-      "address": "0xd3FD767A9f54185CB488Cfd94F83Cf5aC9F4Cf65",
-      "transactionHash": "0x76a7d5667b7730635df0bd913cceb7fccf30b876c0f6a49af33691296022ed5c"
+      "address": "0xEF16d346f6D58B38d34E1Aaa98D99f05B1f113D7",
+      "transactionHash": "0xe57328bcb2129b5536faacdfb38b7033c98e45418112d7b2fc9ffe40f61ec3bb"
     }
   },
   "schemaVersion": "3.4.1",
-  "updatedAt": "2021-08-25T20:28:21.505Z",
+  "updatedAt": "2021-08-27T14:16:41.552Z",
   "networkType": "ethereum",
   "devdoc": {
     "methods": {}
